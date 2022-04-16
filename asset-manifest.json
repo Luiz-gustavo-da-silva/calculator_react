@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calculater_react/static/css/main.dc729de1.css",
-    "main.js": "/calculater_react/static/js/main.59283191.js",
-    "static/js/787.a174f9e5.chunk.js": "/calculater_react/static/js/787.a174f9e5.chunk.js",
-    "index.html": "/calculater_react/index.html",
-    "main.dc729de1.css.map": "/calculater_react/static/css/main.dc729de1.css.map",
-    "main.59283191.js.map": "/calculater_react/static/js/main.59283191.js.map",
-    "787.a174f9e5.chunk.js.map": "/calculater_react/static/js/787.a174f9e5.chunk.js.map"
+    "main.css": "/calculator_react/static/css/main.dc729de1.css",
+    "main.js": "/calculator_react/static/js/main.520f6de2.js",
+    "static/js/787.a174f9e5.chunk.js": "/calculator_react/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/calculator_react/index.html",
+    "main.dc729de1.css.map": "/calculator_react/static/css/main.dc729de1.css.map",
+    "main.520f6de2.js.map": "/calculator_react/static/js/main.520f6de2.js.map",
+    "787.a174f9e5.chunk.js.map": "/calculator_react/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc729de1.css",
-    "static/js/main.59283191.js"
+    "static/js/main.520f6de2.js"
   ]
 }

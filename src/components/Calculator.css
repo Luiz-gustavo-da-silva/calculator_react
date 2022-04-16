@@ -1,0 +1,32 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    cursor: pointer;
+    margin: 0.3em;
+}
+.wrapper{
+    background: black;
+    border-radius: 1em;
+    padding:1em;
+}
+.wrapper h1{
+    color: #fff;
+    text-align: right;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 3rem;
+}
+.orange{
+    background: #ff9500;
+    color:white;
+}
+.gray{
+    background:#505050;
+    color:white;
+}
+#botaoespecial{
+    width: 6.6em;
+}
